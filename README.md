@@ -21,9 +21,9 @@
 
 <div style='display:flex'>
 
-<img src='https://github-readme-stats.vercel.app/api?username=nazmul162001&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true' width='421' >
+<img src='https://github-readme-stats.vercel.app/api?username=Shahriar-Turag&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true' width='421' >
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=nazmul162001&theme=vue-dark&hide_border=false' width='421'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-Turag&theme=vue-dark&hide_border=false' width='421'>
 
 </div>
 
