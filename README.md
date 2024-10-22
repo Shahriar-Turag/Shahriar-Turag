@@ -21,7 +21,7 @@
 
 <div style='display:flex'>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Shahriar-Turag&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true' width='421' >
+<img src='https://github-readme-stats.vercel.app/api?username=Shahriar-Turag&theme=vue-dark&hide_border=false&count_private=true' width='421' >
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-Turag&theme=vue-dark&hide_border=false' width='421'>
 
