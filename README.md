@@ -163,7 +163,7 @@
   </div>
 <div style="flex: 3; padding: 10px;">
     <!-- Content for the second column -->
-  <img src='https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif' alt="Giphy" style="max-width: 100%;">
+  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN6M2c1MDRhcTU3c2dhOTNrdHMydHdsZGhraHV2MmZ5eDlrbDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy-downsized-large.gif' alt="Giphy" style="max-width: 100%;">
   </div>
 </div>
 
