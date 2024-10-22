@@ -163,7 +163,7 @@
   </div>
 <div style="flex: 3; padding: 10px;">
     <!-- Content for the second column -->
-  <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/YQitE4YNQNahy"/>
   </div>
 </div>
 
