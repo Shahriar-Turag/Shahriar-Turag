@@ -26,6 +26,22 @@
 
 </div>
 
+<br />
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Turag&langs_count=8)](https://github.com/Shahriar-Turag/github-readme-stats) -->
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahriar-Turag&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=500&line_height=24&hide_rank=true&custom_title=Shahriar-Turag's%20Stats&hide=issues&rank_icon=github&include_all_commits=true&height=200" alt="Shahriar's Stats" />
+ <br /> 
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Turag&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=300&langs_count=8&count_private=true&height=220" alt="Shahriar-Turag's Top Languages" />
+  </div>
+
+  <br />
+
+  <a href="https://git.io/streak-stats">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Turag&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Streak" />
+  </a>
+</div>
+
 ## ⚡ Tech Stacks & Development Skills
 
 
