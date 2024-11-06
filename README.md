@@ -110,7 +110,7 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" height="40"/>
     </td>
   </tr>
-</table> -->
+</table>- -->
 
 **Here are a few things I've picked up along my learning journey.**
 
