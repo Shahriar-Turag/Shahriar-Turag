@@ -40,7 +40,7 @@
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Turag&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Streak" />
   </a> 
  <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Shahriar-Turag&theme=dark)](https://git.io/streak-stats) -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Turag)](https://git.io/streak-stats)
+ =<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Turag" alt="GitHub Streak" /></a>
 </div>
 
 ## ⚡ Tech Stacks & Development Skills
